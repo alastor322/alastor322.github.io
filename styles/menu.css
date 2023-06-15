@@ -1,0 +1,28 @@
+body {
+   background-color: LightGray;
+}
+h1 {
+text-align: center;
+color: white;
+font: 40px tahoma, sans-serif;
+text-shadow: 1px 0 1px #000, 
+0 1px 1px #000, 
+-1px 0 1px #000, 
+0 -1px 1px #000;
+}
+a {
+	background-color: #ffffff;
+	border-left: 5px solid #33ADFF;
+	padding: 3px;
+	border: 1px solid #666;
+	margin-bottom:1px;
+	border-radius:5px;
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  transition: 0.4s ease-in-out;
+}

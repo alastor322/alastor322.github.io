@@ -1,0 +1,19 @@
+H1 {
+text-align: center;
+color: gray;
+}
+H2 {
+color: dimgray;
+margin-left:10px;
+}
+B {
+color: orange;
+}
+p {
+padding: 0 10px;
+font-size:14pt;
+}
+img {
+	width: 300px;
+height: auto(140px);
+}

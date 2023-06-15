@@ -1,0 +1,14 @@
+body {
+   background-color: Gainsboro;
+}
+h1 {
+text-align: center;
+color: white;
+font: 40px arial black, sans-serif;
+position: relative;
+top: -100px;
+text-shadow: 1px 0 1px #000, 
+0 1px 1px #000, 
+-1px 0 1px #000, 
+0 -1px 1px #000;
+}
